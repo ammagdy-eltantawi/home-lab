@@ -82,12 +82,17 @@ The service is containerized using Docker Compose to ensure:
 
 ## Screenshots
 
-Include:
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
 
-- Dashboard
-- Query logs
-- Blocking statistics
-- Configuration settings
+### Query Log
+![Query Log](screenshots/query-log.png)
+
+### Blocking Statistics
+![Blocking](screenshots/blocking-stats.png)
+
+### Settings
+![Settings](screenshots/settings.png)
 
 ---
 
